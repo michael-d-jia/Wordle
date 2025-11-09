@@ -18,5 +18,6 @@ Guess the hidden word within a limited number of tries, using color-coded hints 
 
 -Compile using:
  - gcc -o wordle wordle.c
+
 -Run:
  - ./wordle 5 (you can replace 5 with desired word lenth(5, 6, 7, 8))
