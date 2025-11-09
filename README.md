@@ -17,7 +17,7 @@ Guess the hidden word within a limited number of tries, using color-coded hints 
 ## How to Start
 
 - Compile using:
- - gcc -o wordle wordle.c
+  - gcc -o wordle wordle.c
 
 - Run:
- - ./wordle 5 (you can replace 5 with desired word lenth(5, 6, 7, 8))
+  -  ./wordle 5 (you can replace 5 with desired word lenth(5, 6, 7, 8))
